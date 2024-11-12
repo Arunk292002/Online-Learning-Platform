@@ -3,7 +3,7 @@ Software Engineering Course Project
 
 ## Description
 
-This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides a comprehensive solution for delivering online courses, managing users, and facilitating communication between instructors and students.
+This MERN stack-based Elearning Platform offers a robust solution for both students and instructors, making it easy to manage courses, track progress, interact, and learn online. The platform is built with a focus on scalability, security, and user experience. By utilizing the MERN stack, the platform ensures high performance and seamless interaction between frontend and backend services.
 
 ## Features
 
