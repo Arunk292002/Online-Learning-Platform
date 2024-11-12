@@ -105,7 +105,3 @@ If you'd like to contribute to the project:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a clear description of the changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
