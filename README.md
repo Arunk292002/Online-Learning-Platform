@@ -1,8 +1,8 @@
-# Elearning-Platform-Using-MERN
+# Online Learning Platform
 
 ## Description
 
-This MERN stack-based Elearning Platform offers a robust solution for both students and instructors, making it easy to manage courses, track progress, interact, and learn online. The platform is built with a focus on scalability, security, and user experience. By utilizing the MERN stack, the platform ensures high performance and seamless interaction between frontend and backend services.
+This MERN stack-based Online Learning Platform offers a robust solution for both students and instructors, making it easy to manage courses, track progress, interact, and learn online. The platform is built with a focus on scalability, security, and user experience. By utilizing the MERN stack, the platform ensures high performance and seamless interaction between frontend and backend services.
 
 ## Features
 
@@ -60,13 +60,13 @@ This MERN stack-based Elearning Platform offers a robust solution for both stude
 1. Clone the repository:
 
 ```bash
-https://github.com/Sai-Chakradhar-Mahendrakar/Elearning-Platform-Using-MERN.git
+https://github.com/Arunk292002/Online-Learning-Platform.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Elearning-Platform-Using-MERN
+cd Online-Learning-Platform
 ```
 
 3. Install dependencies for the server:
